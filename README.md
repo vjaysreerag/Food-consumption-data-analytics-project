@@ -1,1 +1,1 @@
-# Food-consumption-data-analytics-project
+I am Sreerag Vijayan a devotee of data science. My back ground is Mechanical Engineering, but statistics was(is) my lady of the life. This passion is driving me to professional data analytics/science. This is a project that has dynamic analytics scope within. 
